@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Tomoyd/my_extensions/issues"
   },
-  "homepage": "https://github.com/Tomoyd/my_extensions#readme"
+  "homepage": "https://github.com/Tomoyd/my_extensions#readme",
+  "devDependencies": {
+    "stylelint": "^13.7.0"
+  }
 }
